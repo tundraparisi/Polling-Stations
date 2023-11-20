@@ -1,2 +1,1 @@
-# hotels
-allocation of customers at hotels
+Allocation of voters at polling stations.
